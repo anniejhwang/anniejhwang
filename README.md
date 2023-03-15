@@ -5,7 +5,7 @@ I am a Korean American born and raised in Philadelphia, learning fullstack web d
 
 As of right now...
 ---
-- 👩🏻‍💻 Learning... fullstack rails at Actualize Coding Bootcamp. 
+- 👩🏻‍💻 Learning... fullstack rails, and React at Actualize Coding Bootcamp. 
 - 📚 I’m currently...editing my profiles and job hunting!
 - 💬 Ask me about...my ideas on how to make apps more accessible :)
 - 📫 How to reach me... email: anniehwang428@gmail.com
