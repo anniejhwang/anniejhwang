@@ -3,6 +3,7 @@
 
 I am a Korean American based in Philadelphia, learning fullstack web development. I have two adorable kitties, a passion for plants, and love spontaneous experiences. Although I love spontaneity, I am most definitely a homebody, and thrive best in comfortable silence :).
 
+
 Keep up with me!...
 ---
 - [Work Journal](https://gist.github.com/anniejhwang/c44b9fac57481e8843b8dcbd366b6e8d).
