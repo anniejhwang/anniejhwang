@@ -7,9 +7,9 @@ I am a Korean American based in Philadelphia, learning fullstack web development
 Keep up with me!...
 ---
 - [Work Journal](https://gist.github.com/anniejhwang/c44b9fac57481e8843b8dcbd366b6e8d)
-- [Linkedin](www.linkedin.com/in/)
+- [Linkedin](www.linkedin.com/in/anniejhwang)
 - [Github.io](https://anniejhwang.github.io/)
-- [Email](anniehwang428@gmail.com)
+- Email: anniehwang428@gmail.com
 
 ## My profile overview: 
 
