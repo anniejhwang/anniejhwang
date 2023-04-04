@@ -1,7 +1,11 @@
 # 🌱 Hi, my name is Annie! 🌱
 > *Today's good mood is sponsored by coffee ☕️*
 
-I am a Korean American based in Philadelphia, learning fullstack web development. I have two adorable kitties, a passion for plants, and love spontaneous experiences. Although I love spontaneity, I am most definitely a homebody, and thrive best in comfortable silence :).
+Hello everyone! My name is Annie and I'm a full-stack software engineer. I received my BS in therapeutic recreation where I learned the importance of using recreational activities to improve the quality of life for individuals. During my studies, I've researched how technology could be used to enhance therapeutic experiences and create innovative solutions for clients. I was fascinated by the potential technology had to develop unique interventions, and decided to change my career from therapeutic recreation to being a full-stack software engineer. Now, I combine both my knowledge in software engineering and therapeutic recreation by integrating technology to create meaningful and impactful experiences to improve the lives of those around me.
+
+A bit more about me...
+---
+I'm a Korean American, based in Philadelphia. I have two adorable kitties, a passion for plants, and love spontaneous experiences. Although I love spontaneity, I am most definitely a homebody, and thrive best in comfortable silence :).
 
 
 Keep up with me!...
