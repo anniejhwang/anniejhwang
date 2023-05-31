@@ -1,7 +1,8 @@
 # 🌱 Hi, my name is Annie! 🌱
 > *Today's good mood is sponsored by coffee ☕️*
 
-Hello everyone! My name is Annie and I'm a full-stack software engineer. I received my BS in therapeutic recreation where I learned the importance of using recreational activities to improve the quality of life for individuals. During my studies, I've researched how technology could be used to enhance therapeutic experiences and create innovative solutions for clients. I was fascinated by the potential technology had to develop unique interventions, and decided to change my career from therapeutic recreation to being a full-stack software engineer. Now, I combine both my knowledge in software engineering and therapeutic recreation by integrating technology to create meaningful and impactful experiences to improve the lives of those around me.
+Hello everyone, I'm Annie, a junior software engineer with a unique background in therapeutic recreation and hospitality. With a strong passion for technology and a genuine commitment to improving people's lives, I bring a diverse skill set and a fresh perspective to the world of software development. My experience in therapeutic recreation has taught me the importance of creating inclusive and user-friendly experiences, while my background in hospitality has honed my communication and problem-solving abilities. As a junior software engineer, I'm eager to leverage my technical skills and my understanding of user needs to develop innovative solutions that enhance the quality of life for individuals and make a positive impact in the digital realm. I'm excited to contribute my creativity, adaptability, and dedication to collaborative software development projects. Feel free to connect with me, and explore how we can create meaningful and transformative experiences together!
+
 
 A bit more about me...
 ---
