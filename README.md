@@ -41,4 +41,4 @@ Keep up with me!...
 
 ## Projects I'm currently working on: 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anniejhwang&repo=PlantCareApp)](https://github.com/anniejhwang/PlantCareApp)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anniejhwang&repo=flasjcard-app)](https://github.com/anniejhwang/flashcard-app)
