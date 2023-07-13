@@ -43,4 +43,4 @@ Keep up with me!...
 
 ## Projects I'm currently working on: 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anniejhwang&repo=flashcard-app)](https://github.com/anniejhwang/flashcard-app)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anniejhwang&repo=apinchofsalt)](https://github.com/anniejhwang/apinchofsalt)
